@@ -1,3 +1,2 @@
 # Weather-App-API
-npm init
-npm install express body-parser
+use command "npm install" for installing node modules and dependencies
